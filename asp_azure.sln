@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.2.32802.462
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "asp_azure", "asp_azure\asp_azure.csproj", "{8D2B9060-BC41-433C-AD99-272EAAAB156B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "asp_azure", "asp_azure\asp_azure.csproj", "{8D2B9060-BC41-433C-AD99-272EAAAB156B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "excel_generalas", "excel_generalas\excel_generalas.csproj", "{1DE9C487-BE09-4205-8465-4305E29FAE36}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{8D2B9060-BC41-433C-AD99-272EAAAB156B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8D2B9060-BC41-433C-AD99-272EAAAB156B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8D2B9060-BC41-433C-AD99-272EAAAB156B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1DE9C487-BE09-4205-8465-4305E29FAE36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DE9C487-BE09-4205-8465-4305E29FAE36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DE9C487-BE09-4205-8465-4305E29FAE36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DE9C487-BE09-4205-8465-4305E29FAE36}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
